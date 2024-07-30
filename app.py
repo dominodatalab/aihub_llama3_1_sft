@@ -70,7 +70,7 @@ with st.sidebar:
 @st.cache_resource
 def get_model(quantization):
     model, tokenizer = load_model_and_tokenizer(model_name, quantization)
-    return apply_lora(model, 'outputs'), tokenizer
+    return apply_lora(model, '/mnt/data/llama3_1_sft/'), tokenizer
 
 model, tokenizer = get_model(quantization)
 
