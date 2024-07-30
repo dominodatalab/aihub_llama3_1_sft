@@ -6,8 +6,11 @@ This project shows how to fine tune Llama3.1-8b using supervised fine tuning. We
 The assets available in this project are:
 
 *llama3_sft.ipynb* - This notebook includes all the code necessary to download the dataset, model files and to run the ORPO training for llama3-8b.
+
 *model.py* - This .
+
 *app.sh* - This .
+
 *app.py* - This .
 
 
