@@ -1,7 +1,7 @@
 # Fine tuning Llama3.1-8b using Huggingface SFT
 
 ## About this project
-This project shows how to fine tune Llama3.1-8b using supervised fine tuning. We use the SFTTrainer that's available in the `trl` library from Huggingface. In order to fine tune the model, we will load it in 4bit or 8bit, train a LoRA adapter and merge it back to the base `llama3.1-8b` model.
+This project shows how to fine tune Llama3.1-8b using supervised fine tuning. We use the `SFTTrainer` that's available in the `trl` library from Huggingface. In order to fine tune the model, we will load it in 4bit or 8bit, train a LoRA adapter and merge it back to the base `llama3.1-8b` model.
 
 The assets available in this project are:
 
