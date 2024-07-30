@@ -9,9 +9,9 @@ The assets available in this project are:
 
 *model.py* - This .
 
-*app.sh* - This .
-
 *app.py* - This .
+
+*app.sh* - This .
 
 
 ## License
