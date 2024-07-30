@@ -7,11 +7,11 @@ The assets available in this project are:
 
 *llama3_sft.ipynb* - This notebook includes all the code necessary to download the dataset, model files and to run the supervised fine tuning for llama3.1-8b.
 
-*model.py* - This .
+*model.py* - A python file which is used to deploy the fine-tuned model as a Domino model API .
 
-*app.py* - This .
+*app.py* - A Python file that loads the model, the LoRA adapter and allows for users to interact with the model as a Streamlit app .
 
-*app.sh* - This .
+*app.sh* - This script has launch instructions for the accompanying Streamlit app.
 
 
 ## License
