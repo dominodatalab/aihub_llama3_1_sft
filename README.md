@@ -30,7 +30,7 @@ This template is licensed under Apache 2.0 and contains the following components
 
 This project requires the following [compute environments](https://docs.dominodatalab.com/en/latest/user_guide/f51038/environments/) to be present. Please ensure the "Automatically make compatible with Domino" checkbox is selected while creating the environment.
 
-### Environment Requirements
+### Environment Requirements (not needed if using the Domino AI Hub template)
 
 **Environment Base**
 
