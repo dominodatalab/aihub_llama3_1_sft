@@ -17,12 +17,12 @@ The assets available in this project are:
 ## License
 This template is licensed under Apache 2.0 and contains the following components: 
 * mlflow [Apache License 2.0](https://github.com/mlflow/mlflow/blob/master/LICENSE.txt)
-* streamlit [Apache License 2.0](https://github.com/streamlit/streamlit/blob/develop/LICENSE)
 * accelerate [Apache License 2.0](https://github.com/huggingface/accelerate/blob/main/LICENSE)
 * bitsandbytes [MIT License](https://github.com/TimDettmers/bitsandbytes/blob/main/LICENSE)
-* transformers [Apache License 2.0](https://github.com/huggingface/transformers/blob/main/LICENSE)
-* peft [Apache License 2.0](https://github.com/huggingface/peft/blob/main/LICENSE)
 * datasets [Apache License 2.0](https://github.com/huggingface/datasets/blob/main/LICENSE)
+* peft [Apache License 2.0](https://github.com/huggingface/peft/blob/main/LICENSE)
+* streamlit [Apache License 2.0](https://github.com/streamlit/streamlit/blob/develop/LICENSE)
+* transformers [Apache License 2.0](https://github.com/huggingface/transformers/blob/main/LICENSE)
 * trl [Apache License 2.0](https://github.com/huggingface/trl/blob/main/LICENSE)
 
 
