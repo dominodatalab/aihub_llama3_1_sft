@@ -32,7 +32,7 @@ def get_quantization_config(quantization=QUANTIZATION):
     Get the appropriate quantization configuration.
     
     Args:
-        quantization (str): The type of quantization to use ("4-bit", "8-bit", or None).
+        quantization (str): The type of quantization to use ("4-bit", "8-bit").
     
     Returns:
         BitsAndBytesConfig or None: The quantization configuration.
