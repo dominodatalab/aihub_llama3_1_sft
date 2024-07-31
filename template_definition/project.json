@@ -10,7 +10,7 @@
     "LLM Alignment"
   ],
   "mainRepository": {
-    "uri": "https://github.com/dominodatalab/aihub_llama3_1_sft",
+    "uri": "https://github.com/dominodatalab/aihub_llama3_1_sft.git",
     "ref": {
       "type": "commitId",
       "value": "8575f83"
@@ -52,7 +52,7 @@
   "environmentKey": null,
   "environmentReqs": {
     "value": "You need to use a GPU and ensure that the drivers and packages are installed in the environment in order to fine tune the model.",
-    "link": "https://github.com/dominodatalab/aihub_llama3_1_sft"
+    "link": "https://github.com/dominodatalab/aihub_llama3_1_sft.git"
   },
   "importedRepositories": null,
   "supportedDominoVersions": [
