@@ -13,6 +13,8 @@ The assets available in this project are:
 
 *app.sh* - This script has launch instructions for the accompanying Streamlit app.
 
+**Note :** The first load of the app takes time as it loads the fine tuned model into memory
+
 
 ## License
 This template is licensed under Apache 2.0 and contains the following components: 
