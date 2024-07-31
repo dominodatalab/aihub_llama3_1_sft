@@ -5,7 +5,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 # Global variables
 MODEL_NAME = "NousResearch/Meta-Llama-3.1-8B"
 QUANTIZATION = "8-bit"  # Options: "4-bit", "8-bit", or None
-ADAPTER_PATH = '/mnt/artifacts/lora/'
+ADAPTER_PATH = '/mnt/artifacts/lora/' # this is where the LoRA adapter has been saved
 PROMPT_TEMPLATE = "{task} ### Assistant:"  # Change according to your use case
 
 # Global model and tokenizer
