@@ -5,7 +5,7 @@ This project shows how to fine tune Llama3.1-8b using supervised fine tuning. We
 
 The assets available in this project are:
 
-*`llama3_sft.ipynb`* - This notebook includes all the code necessary to download the dataset, model files and to run the supervised fine tuning for `llama3.1-8b`.
+*`llama3_sft.ipynb`* - This notebook includes all the code necessary to download the dataset, model files and to run the supervised fine tuning for *llama3.1-8b*.
 
 *`model.py`* - A python file which is used to deploy the fine-tuned model as a Domino model API .
 
