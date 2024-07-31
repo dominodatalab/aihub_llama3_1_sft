@@ -54,7 +54,7 @@ def load_model(model_name=MODEL_NAME, quantization=QUANTIZATION):
     
     Args:
         model_name (str): The name or path of the model.
-        quantization (str): The type of quantization to use ("4-bit", "8-bit", or None).
+        quantization (str): The type of quantization to use ("4-bit", "8-bit").
     
     Returns:
         AutoModelForCausalLM: The loaded and configured model.
