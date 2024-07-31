@@ -62,7 +62,7 @@ max_new_tokens = 150  # change accordingly
 # Sidebar with settings
 with st.sidebar:
     st.title("Settings")
-    quantization = st.selectbox("Quantization", ["8-bit", "4-bit", "None"])
+    quantization = st.selectbox("Quantization", ["8-bit", "4-bit"])
     if st.button('Clear Conversation'):
         st.session_state.messages = []
 
