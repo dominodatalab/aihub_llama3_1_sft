@@ -13,7 +13,7 @@ The assets available in this project are:
 
 *app.sh* - This script has launch instructions for the accompanying Streamlit app.
 
-**Note : The first load of the app and model API takes time as it loads the fine tuned model into memory**
+**Note : The first load of the app and model API takes time as it loads the fine tuned model into memory so please set the `Override request timeout` in the model API settings to an appropriate number**
 
 
 ## License
