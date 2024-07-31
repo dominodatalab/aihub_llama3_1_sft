@@ -5,13 +5,13 @@ This project shows how to fine tune Llama3.1-8b using supervised fine tuning. We
 
 The assets available in this project are:
 
-*llama3_sft.ipynb* - This notebook includes all the code necessary to download the dataset, model files and to run the supervised fine tuning for `llama3.1-8b`.
+*`llama3_sft.ipynb`* - This notebook includes all the code necessary to download the dataset, model files and to run the supervised fine tuning for `llama3.1-8b`.
 
-*model.py* - A python file which is used to deploy the fine-tuned model as a Domino model API .
+*`model.py`* - A python file which is used to deploy the fine-tuned model as a Domino model API .
 
-*app.py* - A Python file that loads the model, the LoRA adapter and allows for users to interact with the model as a Streamlit app .
+*`app.py`* - A Python file that loads the model, the LoRA adapter and allows for users to interact with the model as a Streamlit app .
 
-*app.sh* - This script has launch instructions for the accompanying Streamlit app.
+*`app.sh`* - This script has launch instructions for the accompanying Streamlit app.
 
 **Note : The first load of the app and model API takes time as it loads the fine tuned model into memory so please set the `Override request timeout` in the model API settings to an appropriate number**
 
