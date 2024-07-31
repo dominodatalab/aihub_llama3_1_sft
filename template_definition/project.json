@@ -32,7 +32,7 @@
     "name": "Apache 2.0",
     "link": "https://github.com/dominodatalab/aihub_llama3_1_sft#license"
   },
-  "created":"2024-05-02T20:22:52.00Z",
+  "created":"2024-07-30T20:22:52.00Z",
   "data": {
     "name": "This project downloads and uses the guanaco-llama2-1k dataset that is available at https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k",
     "link": null
